@@ -39,3 +39,4 @@ console.log(romanToInt("IX"));
 console.log(romanToInt("LVIII"));
 console.log(romanToInt("MCMXCIV"));
 console.log(romanToInt("LIV"));
+console.log(romanToInt("MMMDCCC"));
